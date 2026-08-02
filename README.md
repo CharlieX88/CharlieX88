@@ -14,8 +14,6 @@ Final year CSE student | GSSoC contributor | Building with the MERN stack
 
 💬 Ask me about MERN stack development, DSA in Java, Git/GitHub workflows, and navigating open-source contributions as a final-year student.
 
-⚡ Fun fact I can debug someone else's code faster than I can find my own missing semicolon.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-309768290) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avhi228811ks@gmail.com) 
