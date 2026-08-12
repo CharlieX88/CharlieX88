@@ -1,6 +1,6 @@
 Hi there 👋 I'm Abhishek
 
-Final year CSE student | GSSoC contributor | Building with the MERN stack
+CSE Undergraduate | MERN Stack Developer | Java & DSA | Open Source Contributor | Building Scalable Web Applications
 
 💫 About Me
 
